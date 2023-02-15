@@ -93,7 +93,7 @@ you might be going about things in an unexpected or discouraged way.
 
 ## How can I determine what hardware my app is running on? (Why don't you make this part easy?)
 
-You should also try to avoid using any hardware-detection, vendor ID, or system
+You should try to avoid using any hardware-detection, vendor ID, or system
 name/ID features you may find, if at all possible. They increase the likelihood
 of following an untested code path, they are brittle (being unspecified or only
 weakly specified), and they make it less likely that your software will run
