@@ -15,6 +15,7 @@ help better fill the gaps about the many nuances of OpenXR.
 
 ## Overview
 - [What is OpenXR?](./chapters/what_is_openxr.md)
+- [Goals, Design, Philosophy](./chapters/goals_design_philosophy.md)
 
 ## Using OpenXR
 - [Frame submission](./chapters/frame_submission.md). A guide focusing on the details of OpenXR frame submission including common calling patterns, optimizations and pitfalls.
