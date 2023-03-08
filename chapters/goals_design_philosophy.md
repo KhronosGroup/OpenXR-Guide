@@ -103,7 +103,7 @@ XR runtime.
 
 We are trying to work around the core observation in
 [Hyrum's Law](https://www.hyrumslaw.com/) - in brief, that any observable
-behavior of a system will be dependended upon - in service of goal 2, while
+behavior of a system will be depended upon - in service of goal 2, while
 balancing it with goal 1. The interaction profile and action system is the key
 of our solution here. We are trying to limit the observable behavior to things
 that are clearly described and specified by OpenXR, and that are tested by you
