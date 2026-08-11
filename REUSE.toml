@@ -1,0 +1,13 @@
+version = 1
+SPDX-PackageName = "OpenXR-Guide"
+SPDX-PackageSupplier = "KhronosGroup"
+SPDX-PackageDownloadLocation = "https://github.com/KhronosGroup/OpenXR-Guide"
+
+[[annotations]]
+precedence = "closest"
+path = [
+    "**/*.png",
+    ".gitattributes",
+]
+SPDX-FileCopyrightText = "2026 The Khronos Group, Inc."
+SPDX-License-Identifier = "CC-BY-4.0"
